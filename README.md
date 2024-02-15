@@ -15,3 +15,6 @@ git clone https://github.com/your-username/tvshowsearch-app.git
 
 # Contributing
 Contributions are welcome! Feel free to open issues, suggest improvements, or submit pull requests to enhance the app.
+
+# Live view
+https://tvssapp.netlify.app
